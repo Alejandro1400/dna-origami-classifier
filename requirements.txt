@@ -1,0 +1,12 @@
+picassosr==0.11.3
+matplotlib==3.11.2
+scikit-learn==1.7.2
+jupyterlab==4.6.5
+ipykernel==7.4.0
+nbclient==0.11.0
+numpy==2.5.4
+scipy==1.18.1
+numba==0.68.1
+h5py==3.16.0
+pandas==2.3.3
+PyYAML==6.0.3
